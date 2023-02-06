@@ -1,2 +1,6 @@
-# titolo 1
-Ciao, qui Xaos
+# Bio
+Hi, Xaos here; aspiring game dev, and cookies lover!
+
+# Contacts
+
+Instagram: @travisquat
